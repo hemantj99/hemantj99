@@ -8,7 +8,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Native Application Development and Flutter.
+- 🔭 &nbsp; I’m currently learning Native Application Development.
 - ✍️ &nbsp; Google Summer of Code'19 Student Developer at OWASP.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science from PIET, Jaipur.
