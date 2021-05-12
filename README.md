@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantj99&label=Views&color=blue&style=plastic" alt="hemantj99" /> </p>
+![](https://komarev.com/ghpvc/?username=hemantj99&label=PROFILE+VIEWS)
 
 
 <h3> 👨🏻‍💻 About Me </h3>
