@@ -10,14 +10,13 @@
 [![Twitter Badge](https://img.shields.io/badge/hemantjain1999-30302f?style=flat&logo=twitter&logoColor=white)](https://twitter.com/hemantjain1999)
 ![](https://komarev.com/ghpvc/?username=hemantj99&label=PROFILE+VIEWS)
 
-<img align="right" alt="GIF" src="https://github.com/hemantj99/hemantj99/blob/main/gif3.gif" height="300" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/hemantj99/hemantj99/blob/main/gif3.gif" height="300" width="380"/>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Native Android Development.
 - ✍️ &nbsp; Google Summer of Code'19 Student Developer at OWASP.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science from PIET, Jaipur.
 - ☕ &nbsp; A perfect cup of Tea can be the ultimate solution for any stress. 
 
