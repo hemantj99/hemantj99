@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on Advance Android skills.
 - ✍️  Google Summer of Code'19 Student Developer at OWASP.
 - 🎓 B.Tech in Computer Science from PIET, Jaipur.
-- ☕ A perfect cup of Tea can be the ultimate solution for any stress. 
+- ☕ A perfect cup of Tea is the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
