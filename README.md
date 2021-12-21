@@ -15,7 +15,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 👨‍💻 I'm Software Engineer(Android) at [UxArmy](https://www.uxarmy.com/).
+- 👨‍💻 I'm Software Engineer(Android) at [UXArmy](https://www.uxarmy.com/).
 - 🌱 I love to learn new things and ready to help others.
 - 🔭 I’m currently working on Advance Android skills.
 - ✍️  Google Summer of Code'19 Student Developer at OWASP.
@@ -24,9 +24,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐   &nbsp; Android | Chatbot | HTML | CSS
-- 💻   &nbsp; Java | Python | C++ | C
-- 🛢   &nbsp; Firebase | MySQL
+- 💻   &nbsp; Android | Java | Kotlin | Python | C++ | C
+- 🛢   &nbsp; Firebase | MySQL | SQLite
 - 🔧  &nbsp; Android Studio | Git | PyCharm | Visual Studio code | Jupyter Notebook 
 
 
