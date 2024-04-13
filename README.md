@@ -18,15 +18,14 @@
 - 👨‍💻 I'm Software Engineer(Android) at 55Tech.
 - 🌱 I love to learn new things and ready to help others.
 - 🔭 I’m currently working on Advance Android skills.
-- ✍️  Google Summer of Code'19 Student Developer at OWASP.
-- 🎓 B.Tech in Computer Science from PIET, Jaipur.
+- 🎓 B.Tech done in Computer Science from PIET, Jaipur.
 - ☕ A perfect cup of Tea is the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻   &nbsp; Android | Kotlin | Python | C++ | C
 - 🛢   &nbsp; Firebase | MySQL | SQLite
-- 🔧  &nbsp; Android Studio | Git | PyCharm | Visual Studio code | Jupyter Notebook 
+- 🔧  &nbsp; Android Studio | Git | PyCharm | Visual Studio code 
 
 
 <br>
