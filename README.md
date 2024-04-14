@@ -5,7 +5,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/hemantjain1999@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:hemantjain1999@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/hemantjain99-30302f?style=flat&logo=linkedin)](https://linkedin.com/in/hemantjain99/)
-[![Instagram Badge](https://img.shields.io/badge/Hemantjain-30302f?style=flat&logo=instagram)](https://www.instagram.com/hemantjain_22/)
+[![Instagram Badge](https://img.shields.io/badge/Hemantjain-30302f?style=flat&logo=instagram)](https://www.instagram.com/hemantjain_17/)
 [![Medium Badge](https://img.shields.io/badge/hemantjain1999-30302f?style=flat&logo=medium)](https://medium.com/@hemantjain1999)
 [![Twitter Badge](https://img.shields.io/badge/hemantjain1999-30302f?style=flat&logo=twitter&logoColor=white)](https://twitter.com/hemantjain1999)
 ![](https://komarev.com/ghpvc/?username=hemantj99&label=PROFILE+VIEWS)
@@ -38,10 +38,10 @@
 
 
 <img align="left" alt="Android" height="36px" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Java" height="36px" width="36px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img align="left" alt="Kotlin" height="36px" width="36px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" />
+<img align="left" alt="Kotlin" height="36px" width="36px" src="https://github.com/hemantj99/hemantj99/blob/main/kotlin-icon.svg" />
 <img align="left" alt="Firebase" height="36px" width="36px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" />
 <img align="left" alt="Git" height="36px" width="36px" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" alt="Kotlin" height="36px" width="36px" src="https://github.com/hemantj99/hemantj99/blob/main/java.svg" />
 <img align="left" alt="C++" height="36px" width="36px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" />
 <img align="left" alt="C" height="36px" width="36px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img align="left" alt="Visual Studio Code" height="36px" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
