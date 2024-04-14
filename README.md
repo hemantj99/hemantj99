@@ -17,7 +17,7 @@
 
 - 👨‍💻 I'm Software Engineer(Android) at 55Tech.
 - 🌱 I love to learn new things and ready to help others.
-- 🔭 I’m currently working on Advance Android skills.
+- 🔭 I’m currently working on Compose Multiplatform.
 - 🎓 B.Tech done in Computer Science from PIET, Jaipur.
 - ☕ A perfect cup of Tea is the ultimate solution for any stress. 
 
