@@ -23,7 +23,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻   &nbsp; Android | Kotlin | Jetpack Compose | KMP | MVVM | MVI | Hilt | Kodein | Koin
+- 💻   &nbsp; Android | Kotlin | Jetpack Compose | KMP | MVVM | MVI
 - 🛢   &nbsp; Firebase | MySQL | SQLite
 - 🔧  &nbsp; Android Studio | Git | Jira | Trello
 
