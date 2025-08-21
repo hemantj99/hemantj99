@@ -15,7 +15,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 👨‍💻 I'm Software Developer(Android) at 55Tech.
+- 👨‍💻 I'm Software Developer.
 - 🌱 I love to learn new things and ready to help others.
 - 🔭 I’m currently working on Compose Multiplatform.
 - 🎓 B.Tech done in Computer Science from PIET, Jaipur.
