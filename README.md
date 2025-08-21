@@ -2,14 +2,6 @@
 
 
 <h3> 🤝🏻 Connect with Me </h3>
-
-[![Gmail Badge](https://img.shields.io/badge/hemantjain1999@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:hemantjain1999@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/hemantjain99-30302f?style=flat&logo=linkedin)](https://linkedin.com/in/hemantjain99/)
-[![Instagram Badge](https://img.shields.io/badge/Hemantjain-30302f?style=flat&logo=instagram)](https://www.instagram.com/hemantjain_17/)
-[![Medium Badge](https://img.shields.io/badge/hemantjain1999-30302f?style=flat&logo=medium)](https://medium.com/@hemantjain1999)
-[![Twitter Badge](https://img.shields.io/badge/hemantjain1999-30302f?style=flat&logo=twitter&logoColor=white)](https://twitter.com/hemantjain1999)
-![](https://komarev.com/ghpvc/?username=hemantj99&label=PROFILE+VIEWS)
-
 <img align="right" alt="GIF" src="https://github.com/hemantj99/hemantj99/blob/main/gif3.gif" height="300" width="380"/>
 
 
