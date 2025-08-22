@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Hemant Jain <img src="https://github.com/hemantj99/hemantj99/blob/main/Hi.gif" width="25"></h2>
+<h2> Hey there! <img src="https://github.com/hemantj99/hemantj99/blob/main/Hi.gif" width="25"></h2>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
